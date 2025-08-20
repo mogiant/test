@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "intelliSenseMode": "windows-gcc-x64",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "compilerPath": "D:/tools/MingW64/x86_64-14.2.0-release-mcf-seh-ucrt-rt_v12-rev1/mingw64/bin/gcc.exe"
+    }
+  ],
+  "version": 4
+}
